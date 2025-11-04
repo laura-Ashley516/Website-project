@@ -2,9 +2,13 @@ body{
     background-color: rgb(15, 143, 94);
 }
 button{
+    display:flex;
     align-items: center;
     border:none;
-    font-size: 1rem;
+    border-radius: 3px;
+    font-size: 3rem;
     background-color: rgb(187, 192, 190);
     opacity: 0.5;
+    height:100vh;
+    padding-top: 5vh;
 }
