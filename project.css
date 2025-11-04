@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(15, 143, 94);
+}
+button{
+    align-items: center;
+    border:none;
+    font-size: 1rem;
+    background-color: rgb(187, 192, 190);
+    opacity: 0.5;
+}
