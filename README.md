@@ -1,1 +1,3 @@
 First Personal Website Project
+
+  I intend for this web site to tbe a lil bit like canva but just for resumes. the user will be able to gather all their professional background and espress their personality. they'll be a profile pic, link section with the links to their socials or projects, an info section, as well as their resume etc... 
